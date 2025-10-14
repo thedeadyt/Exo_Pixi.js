@@ -14,6 +14,7 @@ import { createMap } from "./world/map.js";
 
     // Récupération des données de la map depuis l'API
     const grid = await fetchMapData();
+    console.log('Map data loaded successfully');
 
     // Création et ajout de la map au conteneur de jeu
     const mapContainer = createMap(grid);
