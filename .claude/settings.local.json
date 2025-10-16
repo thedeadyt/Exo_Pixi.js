@@ -7,7 +7,12 @@
       "Bash(findstr \"\\nul$\")",
       "Bash(powershell:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(del \"c:\\Users\\rodri\\Desktop\\Exo_Pixi.js\\jeux\\src\\entities\\PowerUp.js\")",
+      "Bash(curl:*)",
+      "Bash(findstr:*)",
+      "Bash(del \"nul\")",
+      "Bash(rm:*)"
     ],
     "deny": [],
     "ask": []
